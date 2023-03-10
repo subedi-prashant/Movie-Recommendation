@@ -1,6 +1,6 @@
-This app recommends movies using Hybrid filtration method:
-
-
+This app recommends movies using Content Based and Collaboration Based method:
+Content Based--> Cosine Samilirity
+Collaboration Based--> Pearson Coefficient 
 
 Has 2 sections:
 
